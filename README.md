@@ -1,4 +1,4 @@
-<h1 align="center">Capitulo II - Desafio 01 </h1>
+<h1 align="center">Capitulo II </h1>
 <h4 align="center">Ignite - <a href="https://rocketseat.com.br/" >Rocketseat</a> - Trilha Node js</h4>
 
 ## Objetivo
